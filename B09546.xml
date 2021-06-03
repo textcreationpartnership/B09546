@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hereford taken: a copie of Collonel Morgans letter of the storming of Hereford; with the manner of the fight, and taking of the town and garrison, on Thursday morning last, Decemb. 18. 1645. Wherein was taken, the governour of the towne, foure lords, twenty knights, collonels, and majors; one hundred captains, lieutenants, cornets, and ensignes; 100 centlemen [sic] and inferiour officers; many papists, 500 prisoners, many slain, 1000 armes, 20 barrels of gunpowder, 11. peeces of ordnance. a great quantity of provisions, and all their [b]ag and baggage.</title>
+            <author>Morgan, Thomas, Sir, d. 1679?</author>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09546</idno><idno type="EEBO-CITATION">80923198</idno>
+  <idno type="VID">191929</idno>
+  <idno type="EEBO-PROQUEST">2248552707</idno>
+  
+            <idno type="OCLC"> 80923198</idno>
+            <idno type="STC">Wing M2745</idno>
+            <idno type="STC">ESTC R180703</idno>
+            <idno type="OCLC">80923198</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09546)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191929)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2896:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Hereford taken: a copie of Collonel Morgans letter of the storming of Hereford; with the manner of the fight, and taking of the town and garrison, on Thursday morning last, Decemb. 18. 1645. Wherein was taken, the governour of the towne, foure lords, twenty knights, collonels, and majors; one hundred captains, lieutenants, cornets, and ensignes; 100 centlemen [sic] and inferiour officers; many papists, 500 prisoners, many slain, 1000 armes, 20 barrels of gunpowder, 11. peeces of ordnance. a great quantity of provisions, and all their [b]ag and baggage.</title>
+                  <author>Morgan, Thomas, Sir, d. 1679?</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Jane Coe,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The "b" in "bag" is printed upside down.</note>
+                  <note>Imperfect: cropped with slight loss of print; tightly bound.</note>
+                  <note>Reproduction of original in the Trinity College (Dublin, Ireland) Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+               <term type="geographic_name">Hereford (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:191929:1"/>
+            <pb facs="tcp:191929:1"/>
+            <p>HEREFORD TAKEN: A COPIE OF Collonel <hi>MORGANS</hi> Letter of the stor<g ref="char:EOLhyphen"/>ming of Hereford; With the manner of the Fight, and taking of the Town and Garrison, on Thursday morning last, Decemb. 18. 1645.</p>
+            <p>
+               <hi>VVherein was taken,</hi> The Governour of the Towne, foure Lords, twenty Knights, Collonels, and Majors; one hundred Captains, Lieutenants, Cornets, and Ensignes; 100 Centlemen and in<g ref="char:EOLhyphen"/>feriour Officers; many Papists, 500 Prisoners, many slain, 1000 Armes, 20 Barrels of Gunpowder, 11. Peeces of Ordnance. A great quantity of provisions, and all their q<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g and baggage.</p>
+            <p>LONDON, Printed for <hi>Jane Coe▪</hi> 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:191929:2"/>
+            <pb facs="tcp:191929:2"/>
+            <head>THE HAPPY NEWES of the taking of <hi>HEREFORD,</hi> On Thursday last by Colonell MORGAN.</head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>A Copie of Colonell <hi>MORGANS</hi> Letter.</head>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">I</seg>T hath pleased God excee<g ref="char:EOLhyphen"/>dingly to blesse my procee<g ref="char:EOLhyphen"/>dings, in giving a blessed successe to my endeavours, in the taking of this Garri<g ref="char:EOLhyphen"/>son, though with great difficulty in regard <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>f the season of the year, and the deepnesse <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>f the snow, which was above a foot thick,
+<pb facs="tcp:191929:3"/> my forces consisted of a 110. Horse and foote, and Birches forces of 900. Foote, which being ioyned upon Munday, we marched from Gloster and thought to have reached Hereford that night, but our Footesouldiers were so much fpent by that time we came within 6. Miles of Hereford, that they were able to march no far<g ref="char:EOLhyphen"/>ther, so we were constrained to draw back to<g ref="char:EOLhyphen"/>wards Gloster; that the enemy here should take the lesse notice of any designe, upon Wednesday night we marched towards it againe, and drew up our forees within musket shot of the towne under an hill, about an houre before day, on Thursday: and before Sunriseing made our at<g ref="char:EOLhyphen"/>tempt with good effect for us with very small losse, divers of the enemy were slaine in the streete and the rest taken prisoners; we have al<g ref="char:EOLhyphen"/>ready in custody 120. Lords, Knights, and Of<g ref="char:EOLhyphen"/>ficers, in commission, who are to be sent to Gloster, the most of them are papists, for com<g ref="char:EOLhyphen"/>mon prisoners. I am not able as to give a true list, nor of our Armes, only 11. Peeces of Ordi<g ref="char:EOLhyphen"/>nance, and a reasonable quantity of all sorts of Ammunition. Captain <hi>Temple</hi> had the honour to command the forlorn Hope of Horse, and beha<g ref="char:EOLhyphen"/>ved himself very gallantly. By this the Popes rest in Hereford is spoyled, which is all for this time, hoping to give you a full relation by the next and do remaine</p>
+                  <closer>
+                     <salute>Sir</salute>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb facs="tcp:191929:3"/>
+            <p>The manner of the taking of <hi>Hereford;</hi> was thus, That Collonel <hi>Morgan</hi> the Governour of Gloucester, having re<g ref="char:EOLhyphen"/>ceived orders for the taking of <hi>Hereford</hi> Garrison, hee had correspondency with Collonel Birch to joyne their forces together; for the fame Col. Birch with 900 Foote came to Gloucester to Col. Morgan, who drew out all their for<g ref="char:EOLhyphen"/>ces out of Gloucester on Munday the 15. of December, their whole body consisting of 2000 Horse and Foote, 110 of Col. Morgans, and 900 foot of Col. Birches: they mar<g ref="char:EOLhyphen"/>ched out early in the morning intending to have reached some good quarters that night about Hereford, to have laid ready for action that night, but the extremity of the weather was so hard, that they marched with much difficulty, by reason of the extremity of Frost and Snow that hindered them: for the horse did not only march very difficult was by reason of the Ice, and also of the Snow and season of the yeeres, but the poore Foot had so hard a march of it, that they could not reach so far as they intended: for the Snow was not only a foot deep in their ordinary way, bur in some places they could not passe till the Snow was shovelled out of the way before them, in pits and deepe places; sometime the Ice also was very dangerous both to horse and foote, and in their ordinary march they went up to the knees in Snow so that that night, though with all the labour ond pains they could attaine, they could not get soone enough to attempt any thing before the enemy had drawne <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y their drawne up their draw bridge and secured themselves, yet the souldiers were very resolute, and did as much as could be expected on their part, and we very sory that they could not accomplish their desires as was intended▪ but still proceeded in the de<g ref="char:EOLhyphen"/>signe with all care till they had effected it: but the honest<g ref="char:EOLhyphen"/>nesse of the souldiers was such that they much wearied and tyred themselves in their march, and would faine have got to Hereford, but could not.</p>
+            <pb facs="tcp:191929:4"/>
+            <p>On that night they came within about six miles of <hi>He<g ref="char:EOLhyphen"/>reford,</hi> but were so tired, that they could march to further which possest our friends with some fear that they might be discovered to the enemie, and so the designe hindered; but it was carried out with such discretion, that the enemie had no knowledge of them brought to <hi>Hereford,</hi> till they were surprized in their quarters, and that night they with<g ref="char:EOLhyphen"/>drew somthing back towards <hi>Glocester,</hi> not holding it secure to lie too neer <hi>Hereford.</hi>
+            </p>
+            <p>On <hi>Tuesday</hi> they sent out Scouts to see if any thing were discovered, as also to fetch in prov<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sion to furnish their Sol<g ref="char:EOLhyphen"/>diers knapsacks; and seeing the difficultie of the work, took counsell what to doe for the better s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>curitie in the accom<g ref="char:EOLhyphen"/>plishing thereof: which before all things could be accom<g ref="char:EOLhyphen"/>plished with discretion to perfect the designe with best ad<g ref="char:EOLhyphen"/>vantage, they were constrained not to march on till <hi>Wed<g ref="char:EOLhyphen"/>nesday.</hi> On <hi>Wednesday</hi> toward; night they marched againe towards <hi>Herefo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d,</hi> intending to try if they could take it next morning, and so ordered it, that the enemie might draw up the bridge, and lie secure in the town, before our men ap<g ref="char:EOLhyphen"/>proached, lest some or other should carry the news into <hi>He<g ref="char:EOLhyphen"/>reford,</hi> to discover them to the Governour.</p>
+            <p>During this time of their lying at distance, the country thought they had been designed for the strengthening of the siege before Chester, upon the occasion of that party that was gone from Ox<g ref="char:EOLhyphen"/>ford, Banbury, and those parts for the relief of Chester.</p>
+            <p>That night Colonell <hi>Morgan</hi> drew up his Forces within Mus<g ref="char:EOLhyphen"/>ket shot of their works at Hereford, and quartered behind a hill which is on one side of the Town, so that the enemy could no, discover them there, either by the light of the Moon, or the next morning before the designe was put in execution, considerine that to be the best place of advantage for the acting of the busi<g ref="char:EOLhyphen"/>nesse. When our men were setled about an houre before break of day the next morning; where they having marched all that night and were very weary, yet neglected no opportunity to prosecute the designe, wherein every one in their proper place acted with much gallantry, to have all things in a readidesse, and perfect the
+<pb facs="tcp:191929:4"/> accomplishment of the taking in of Herd, and acordingly God gave them a good successe.</p>
+            <p>On Tuesday before Sunriseing, Collonel Morgan sent out 6. gallant resolute men, one of them pretended to be the high Constable, with a warrant from the Governour of Hereford; for the bringing in of men to break up the Ice in the wayes, and after then Captaine Temple marched with a party of horse on the forelorn hope: and at the letting down of the Bridge, the pretended high Constable with his bill on his shoulder, and the rest with Shovels, Spades, and Pickaxes, went to the draw Bridge which was let downe, and 2. Centinells set to keepe it, the high Con<g ref="char:EOLhyphen"/>stable got away over the Bridge; and with his Bill slew one of them, and after the other Centi<g ref="char:EOLhyphen"/>nell was slain, by which they gained that service, then Captaine Temple came up wit<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his forlorn hope, and after him <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he rest, in the meane time Captaine Temple fought gallantly so long till he had his horse <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wice <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hot under him, and his <gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap>word broken almost to the very hil<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; many of the enenies slaine in the streete, and the rest ta<g ref="char:EOLhyphen"/>ken prisoners; some fled to the market place, and maintained that a while, but in short time Collonel Morgan had a compleate victory, and the souldiers good store of plunder in the Town.</p>
+            <pb facs="tcp:191929:5"/>
+            <list>
+               <head>A List of what was taken in <hi>Hereford</hi> by Colonel <hi>Morgan,</hi> on <hi>Thursday</hi> the 21. of Decemb. 1645</head>
+               <item>THe Governour of the Towne.</item>
+               <item>Foure Lords.</item>
+               <item>Twenty Knights, Colonels, and Majors.</item>
+               <item>One hundred Captaines, Lieutenants, Cornets, and Ensignes.</item>
+               <item>One hundred Gentlemen, and Jnferior Officers.</item>
+               <item>Many Papists. Five hundred Prisoners. Many slaine</item>
+               <item>One thousand Armes.</item>
+               <item>Twenty Barrels of Gun-powder.</item>
+               <item>Eleven Peeces of Ordnance,</item>
+               <item>Good store of other Ammunition.</item>
+               <item>A great quantity of Provision.</item>
+               <item>And all their Bag and Baggage,</item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
